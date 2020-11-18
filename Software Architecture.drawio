@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T12:26:00.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="PP35If49Q8aEIskiHgiV" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T12:32:54.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="JK2B1jCXCS7gjQyOkcbJ" version="13.9.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="4134" dy="2524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3146" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,7 +218,7 @@
           <mxGeometry x="-150" y="127" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-42" value="commands.txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="122" width="90" height="40" as="geometry" />
+          <mxGeometry x="16" y="122" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-219" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9wOc5MEG3pKJF_C7wdfZ-44" target="9wOc5MEG3pKJF_C7wdfZ-115">
           <mxGeometry relative="1" as="geometry">
@@ -238,8 +238,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1130" y="120" />
-              <mxPoint x="1000" y="120" />
-              <mxPoint x="1000" y="249" />
+              <mxPoint x="980" y="120" />
+              <mxPoint x="980" y="249" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -247,14 +247,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-158" value="&lt;pre style=&quot;font-family: &amp;#34;.applesystemuifont&amp;#34; ; font-size: 9.8pt&quot;&gt;pattern_logs_transporter.py&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="90" width="180" height="38" as="geometry" />
+          <mxGeometry x="1002" y="90" width="180" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-165" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9wOc5MEG3pKJF_C7wdfZ-159" target="9wOc5MEG3pKJF_C7wdfZ-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="154" />
-              <mxPoint x="1000" y="154" />
-              <mxPoint x="1000" y="249" />
+              <mxPoint x="980" y="154" />
+              <mxPoint x="980" y="249" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -262,10 +261,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-159" value="&lt;pre style=&quot;font-family: &amp;#34;.applesystemuifont&amp;#34; ; font-size: 9.8pt&quot;&gt;default_logs_transporter.py&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="138" width="180" height="32" as="geometry" />
+          <mxGeometry x="1002" y="138" width="180" height="32" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-198" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1262" y="22" width="166.52999999999997" height="231.14999999999998" as="geometry" />
+          <mxGeometry x="1223" y="22" width="166.52999999999997" height="231.14999999999998" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-195" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9wOc5MEG3pKJF_C7wdfZ-198">
           <mxGeometry width="113.46" height="220" as="geometry" />
@@ -315,11 +314,11 @@
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-203" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9wOc5MEG3pKJF_C7wdfZ-200" target="9wOc5MEG3pKJF_C7wdfZ-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9wOc5MEG3pKJF_C7wdfZ-200" value="logs_extractor.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1434" y="117" width="120" height="30" as="geometry" />
+        <mxCell id="9wOc5MEG3pKJF_C7wdfZ-200" value="&lt;pre style=&quot;font-family: &amp;#34;.applesystemuifont&amp;#34; ; font-size: 9.8pt&quot;&gt;result_extractor_to_excel.py&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="117" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-209" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1599" y="85" width="67.5" height="67" as="geometry" />
+          <mxGeometry x="1577" y="85" width="67.5" height="67" as="geometry" />
         </mxCell>
         <mxCell id="9wOc5MEG3pKJF_C7wdfZ-204" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-128.png" vertex="1" parent="9wOc5MEG3pKJF_C7wdfZ-209">
           <mxGeometry width="40" height="40" as="geometry" />
